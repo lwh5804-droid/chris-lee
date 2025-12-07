@@ -1,0 +1,30 @@
+index.html
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8" />
+    <title>Chris Lee Portfolio</title>
+    <style>
+        body {
+            font-family: Arial;
+            padding: 40px;
+            background: #f5f5f5;
+        }
+        .box {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>안녕하세요, Chris Lee 홈페이지입니다.</h1>
+        <p>GitHub → Vercel 연동 테스트용 기본 페이지입니다.</p>
+        <p>이제 Vercel로 배포하면 인터넷 주소로 접속할 수 있습니다!</p>
+    </div>
+</body>
+</html>
